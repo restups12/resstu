@@ -1,1 +1,1 @@
-resstu.github.io
+restu.github.io
